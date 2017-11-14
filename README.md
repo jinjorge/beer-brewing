@@ -10,14 +10,15 @@ Daily random brew stuff that's on sale - http://www.homebrewfinds.com
 Forums - http://www.homebrewtalk.com/forum.php < you can easily spend weeks just reading posts in the forums.
 
 ## Brewing Equipment (Essentials):
-Burner
-Kettle (at least 10 Gallons)
-Fermentor (Glass or Plastic carboy 6 gallon size)
-5 gallon Keg (Ball lock) or bottles - I'd recommend keg to start.
-Star Sans - Sanitation solution
-CO2 bottle and regulator
+- Burner
+- Kettle (at least 10 Gallons)
+- Fermentor (Glass or Plastic carboy 6 gallon size)
+- 5 gallon Keg (Ball lock) or bottles - I'd recommend keg to start.
+- Star Sans - Sanitation solution
+- CO2 bottle and regulator
+
 Nice to haves:
-Wort Chiller - if you are going to brew with others (us) we already have one and you can use it  :)
+- Wort Chiller - if you are going to brew with others (us) we already have one and you can use it  :)
 
 As far as where to buy the equipment, especially the essentials, you can get a
 lot of them used off Craigslist or new from various places.
