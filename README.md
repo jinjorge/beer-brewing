@@ -32,6 +32,10 @@ https://www.youtube.com/user/craftbrewingdotcom - These guys have some pretty go
 https://www.youtube.com/watch?v=FfPoUCAHtKY - Kegging and carbonation
 https://www.youtube.com/user/BeerGeekNation - This guy is very easy to understand and has lots of useful videos
 
+## Podcasts:
+- [Brew Strong](http://www.thebrewingnetwork.com/subscribe-rss/)
+- [Experimental Brewing](https://www.experimentalbrew.com/podcast)
+
 Keg - http://www.homebrewing.org/AIH-New-5-Gallon-Corny-Keg-Ball-Lock_p_5100.html
 
 Wort Chiller - http://www.morebeer.com/products/water-efficient-immersion-wort-chiller-25-38-tubing.html
