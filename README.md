@@ -12,14 +12,6 @@ that is easy to share and update.
 - [HomeBrewTalk Forum](http://www.homebrewtalk.com/forum.php) < you can easily
 spend weeks just reading posts in the forums.
 
-## Brewing Equipment (Essentials):
-- Burner
-- Kettle (at least 10 Gallons)
-- Fermentor (Glass or Plastic carboy 6 gallon size)
-- 5 gallon Keg (Ball lock) or bottles - I'd recommend keg to start.
-- Star Sans - Sanitation solution
-- CO2 bottle and regulator
-
 Nice to haves:
 - Wort Chiller - if you are going to brew with others (us) we already have one
 and you can use it  :)
@@ -30,6 +22,7 @@ lot of them used off Craigslist or new from various places.
 ## Books:
 - The New Complete Joy of Home Brewing
 - The Brew-Masters Bible
+- [Comprehensive Book list](http://www.homebrewfinds.com/the-homebrewers-library)
 
 ## Videos:
 - [Craftbrewing.com](https://www.youtube.com/user/craftbrewingdotcom) - These guys
