@@ -7,6 +7,8 @@ Questions and feedback are welcome. If you find something new, new process, plea
 My initial plan is to use this document as a resource for `Starting off Brewing`
 that is easy to share and update.
 
+1. [Getting Started](https://github.com/jinjorge/beer-brewing/blob/re-org/Getting_Started.md)
+
 ## Websites:
 - [Daily random brew stuff](http://www.homebrewfinds.com) that's on sale
 - [HomeBrewTalk Forum](http://www.homebrewtalk.com/forum.php) < you can easily
@@ -52,3 +54,11 @@ at the hardware store or online.
 Star Sans (Liquid sanitizer) - http://www.amazon.com/Midwest-Homebrewing-and-Winemaking-Supplies/dp/B0064O7YFA/ref=sr_1_1?ie=UTF8&qid=1448551993&sr=8-1&keywords=star+san
 
 PBW (for cleaning your keg) - http://www.amazon.com/PBW-Five-Star-1-lb/dp/B0064O7XBA/ref=pd_sim_328_1?ie=UTF8&dpID=31IZbeEnnXL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=1J4YBXW3XPAF85B1FE1V
+
+## Technology
+- [Brew Jacket](https://www.brewjacket.com)
+
+## Kegging
+ - [Carbonation](http://brulosophy.com/methods/carbonation-methods/)
+ - TODO - Cleaning and sanitizing kegs(Drew Beechum sanitize, purge and store), Kegging
+ 
